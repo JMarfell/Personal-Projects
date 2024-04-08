@@ -1,19 +1,6 @@
 /*
---Needed functions
-	--Golf swing calculator.
-	--Calculate
-		--hit speed
-		--distance
-		--angle, etc
-		--Starting yardage to the hole
-		--Calculated how many yards are left after a hit based on swing angle hit force etc
-		--
-	Formulas for calculations
-		--http://www2.clarku.edu/faculty/djoyce/trig/formulas.html
---Completed and in-progress Functions
-	--Tool to randomly select a swing angle (Complete)
-	--Tool to determine swing force (Complete)
-	--
+	This program uses randomly generated numbers to give a fictional golf swing 
+	calculation. This was created to be a fun side project to compliment my classwork.
 */
 import java.util.Scanner;
 import java.lang.Math;
